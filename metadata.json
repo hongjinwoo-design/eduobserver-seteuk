@@ -1,0 +1,5 @@
+{
+  "name": "EduObserve AI - Student Record Manager",
+  "description": "A teacher utility app to manage student observation logs and generate comprehensive evaluations (Sebeunungneuk Teukgisahang) using Gemini AI.",
+  "requestFramePermissions": []
+}
